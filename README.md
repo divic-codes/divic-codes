@@ -1,16 +1,19 @@
 ## Hi there 👋
+# I'm Divyansh Chhabra.
 
-<!--
-**divic-codes/divic-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Learning C/C++
+- Exploring Data Structures and Algorithms
+- Building small projects to improve skills
 
-Here are some ideas to get you started:
+## Skills
+- C
+- C++
+- File Handling
+- Basics of DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Improve problem solving
+- Build real-world projects
+- Become a better developer
+
